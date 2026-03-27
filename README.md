@@ -14,3 +14,13 @@ This repository is dedicated to the learning and implementation of image recogni
 - **docs/**: Documentation related to project progress, methodologies, and results.
 
 - **progress_tracking/**: Folder for keeping track of learning milestones and progress in the project.
+- # 3-Month Study Schedule
+
+## Month 1: Python Basics
+- Week 1: Get familiar with Python basics including syntax, data types, and control structures.
+
+## Month 2: Theory
+- Week 2: Understand the fundamentals of neural networks and CNNs.
+
+## Month 3: Project
+- Week 3: Work on the CIFAR-10 project and apply the learned concepts.
